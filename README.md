@@ -13,3 +13,6 @@ https://youtu.be/kXjXn7fin-g
 <a href="https://youtu.be/kXjXn7fin-g"><img src="https://github.com/juyub/juyub/assets/126839881/57e514d7-ac1e-497f-a5fb-8039920a507c" width="400"/></a>
 
 <!-- https://youtu.be/kXjXn7fin-g --!>
+
+
+[![Video Label](http://img.youtube.com/vi/kXjXn7fin-g/0.jpg)](https://youtu.be/kXjXn7fin-g)
